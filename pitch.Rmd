@@ -1,4 +1,13 @@
-# EQ-5D-valuation
+---
+title: "Week4 pitch - EQ5D calc"
+author: "Iain Leslie"
+date: "15/12/2020"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
 
 ## Intro
 
@@ -46,3 +55,4 @@ The source code and user documentation can be found at my github repository:
 https://github.com/IDL2013/EQ-5D-valuation 
 
 Thank you!
+

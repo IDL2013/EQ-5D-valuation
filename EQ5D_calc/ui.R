@@ -30,6 +30,7 @@ ui <- shinyUI(fluidPage(
                    br(),
                    selectInput("country", h5("Please select your home country"), 
                                choices = list("United Kingdom"=1,"USA"=2, "Canada"=3), selected = 1)),
+                  
                    
           tabPanel("EQ-5D inputs", 
                    h4("By placing a tick in one box in each group below, please indicate which statements best describe your own health today"),

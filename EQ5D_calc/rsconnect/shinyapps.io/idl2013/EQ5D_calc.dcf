@@ -1,0 +1,12 @@
+name: EQ5D_calc
+title: EQ5D_calc
+username:
+account: idl2013
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3402397
+bundleId: 3990830
+url: https://idl2013.shinyapps.io/EQ5D_calc/
+when: 1608013375.8096
+asMultiple: FALSE
+asStatic: FALSE
